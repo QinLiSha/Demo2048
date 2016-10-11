@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GameDemo2048</string>
+    <string name="Score">得分:</string>
+</resources>
